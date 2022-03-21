@@ -1,0 +1,13 @@
+.idea
+.vs
+*.config
+*.dll
+*.cache
+*.xml
+*.pdb
+*.nupkg
+*.p7s
+*.ps1
+*.rtf
+*.ide-wal
+*.ide-shm
